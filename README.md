@@ -13,7 +13,11 @@ conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvi
 
 ## Dataset
 
-...
+... Coming soon
+
+## Pre-Trained Model
+
+... Coming soon
 
 ## Training
 
@@ -35,7 +39,7 @@ conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvi
 Authors : Yonghoon Jung, Sanghyun Byun, Bumsoo Kim, Sareer Ul Amin, Sanghyun Seo
 
 ```
-Coming soon
+... Coming soon
 ```
 
 ## Acknowledgements
