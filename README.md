@@ -1,7 +1,7 @@
 # PWD-Synthetic-Dataset
 PWD(Pine Wilt Disease) synthesis data generated using 3D rendering tools
 
-### Environments
+## Environments
 
 python version : 3.11.4
 
@@ -10,25 +10,29 @@ python version : 3.11.4
 conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia
 ```
 
-### Dataset
+## Dataset
 
 ...
 
-### Training or Using Pre-trained Model
+## Training or Using Pre-trained Model
 
-```
+```bash
 ## Train Synthetic, Real, Mix Dataset
 ...
 ```
 
-### Results
+## Results with Inference
 
-```
+```bash
 ## Inference Code
 ```
 
-### Acknowledgements
+## Authors and Citation
 
+Authors : Yonghoon Jung, Sanghyun Byun, Bumsoo Kim, Sareer Ul Amin, Sanghyun Seo
 
+```
+Coming soon
+```
 
-### Citation
+## Acknowledgements
