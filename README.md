@@ -39,9 +39,9 @@ Coming soon
 ```
 
 ## Acknowledgements
-```
+
 We are very grateful to the CSLAB researchers at Chung-Ang University (Prof. Park Sang-Oh, Prof. Lee Jae-Hwan, Dr. Nam Sang-Hyuk, Dr. Min-Gyu Cho, M.S. Yo-Seb Lee, and M.S. Dong-Hyeon Kim) and Prof. Kang Dong-Wann at Seoul National University of Science and Technology for their great help in collecting the real dataset. We are also very grateful to M.S. Yoo Jae-Seok, Won-Seop Shin and students Lee Jeong-Ha, Lee Won-Byung, and Oh Chang-Jin for data labeling.
-```
+
 ## References
 
 - https://github.com/hankyul2/EfficientNetV2-pytorch for implementation EfficientNetv2
