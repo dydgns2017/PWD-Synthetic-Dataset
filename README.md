@@ -3,8 +3,9 @@ PWD(Pine Wilt Disease) synthesis data generated using 3D rendering tools
 
 ## Environments
 
-python  version : 3.11.4
-pytorch version :  2.0.1
+- python  version : 3.11.4
+- pytorch version :  2.0.1
+- GPU : 2080Ti*8EA
 
 ```bash
 ## conda env setup
