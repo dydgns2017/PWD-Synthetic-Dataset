@@ -21,7 +21,7 @@ conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvi
 ### Desciption Table for Dataset
 
 |R|S|Spr1|Spr2|Spr3|
-|---|---|---|---|---| 
+|:-:|:-:|:-:|:-:|:-:|
 |Real Dataset|Synthetic Dataset|Synthetic Image Translation Dataset (one)|Synthetic Image Translation Dataset (two)| Synthetic Image Translation (three)|
 
 \+ meaning is mixed dataset
