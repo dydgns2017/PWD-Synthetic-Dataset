@@ -3,6 +3,13 @@ PWD(Pine Wilt Disease) synthesis data generated using 3D rendering tools
 
 ![title.png](./images/title.png)  
 
+## Highlights
+
+- Pine Wilt Disease requires early detection due to its severity and lack of cure.
+- Our synthetic dataset creation outperforms traditional PWD data collection process.
+- Real and synthetic data combination improves PWD F1 Score to 92.88%.
+- Synthetic data method aids forest preservation, applies to other agriculture.
+
 ## Environments
 
 - python  version : 3.11.4
@@ -14,36 +21,29 @@ PWD(Pine Wilt Disease) synthesis data generated using 3D rendering tools
 conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia
 ```
 
-## Dataset
+## Dataset & Pre-Trained Model Downloads
 
-... Coming soon (download link may be google drive)
+Fill out the form through that [link](https://docs.google.com/forms/d/e/1FAIpQLSc1FoXqo3Rg39M_A8Q6VT07oeJTf7BK7faU9uh2N9cvG_NC3A/viewform?usp=sf_link) and we'll give you access to the dataset.
 
-### Desciption Table for Dataset
+Pre-trained model [downloads link](https://drive.google.com/drive/folders/1K-XfZnuhrESKyhlb9z9zK1cmyWAyUggU?usp=drive_link)
 
-|R|S|Spr1|Spr2|Spr3|
+
+
+### Desciption Table for Dataset and Pre-Trained Model
+
+|R|S|S<sub>pr1|S<sub>pr2|S<sub>pr3|
 |:-:|:-:|:-:|:-:|:-:|
 |Real Dataset|Synthetic Dataset|Synthetic Image Translation Dataset (one)|Synthetic Image Translation Dataset (two)| Synthetic Image Translation (three)|
 
 \+ meaning is mixed dataset
 
-## Pre-Trained Model
 
-... Coming soon
+## Training and Inference
 
-## Training
+traininig and Inference code reference and execute [this code](./train.py)
 
-```bash
-## Train Synthetic, Real, Mix Dataset
-## already pre-trained model exists, if you want just inference skip this section(training) 
-... Coming soon
-```
+testset is available [this folder](./test_dataset)
 
-## Results with Inference
-
-```bash
-## Inference Code
-... Coming soon
-```
 
 ## Authors and Citation
 
