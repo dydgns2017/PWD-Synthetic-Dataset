@@ -59,7 +59,7 @@ Authors : Yonghoon Jung, Sanghyun Byun, Bumsoo Kim, Sareer Ul Amin, Sanghyun Seo
 
 We are very grateful to the CSLAB researchers at Chung-Ang University (Prof. Park Sang-Oh, Prof. Lee Jae-Hwan, Dr. Nam Sang-Hyuk, Dr. Cho Min-Gyu, M.S. Lee Yo-Seb, and M.S. Kim Dong-Hyeon) and Prof. Kang Dong-Wann at Seoul National University of Science and Technology for their great help in collecting the real dataset. We are also very grateful to M.S. Yoo Jae-Seok, Won-Seop Shin and students Lee Jeong-Ha, Lee Won-Byung, and Oh Chang-Jin for data labeling. Finally, we'd like to thank Assoicate Seung-Yong Ji (Monitoring & Analysis Department, Korea Forestry Promotion Institute) for responding to so many requests.
 
-This study was carried out with the support of R&D Program for Forest Science Technology (Project No.2021338C10-2123-CD02) provided by Korea Forest Service (Korea Forestry Promotion Institute).
+This study was carried out with the support of R&D Program forForest Science Technology (Project No. 2021338C10-2123-CD02) pro-vided by Korea Forest Service (Korea Forestry Promotion Institute) andthe National Research Foundation of Korea (NRF) grant funded by theKorean government (MSIT) (No.2022R1A2C1004657).
 
 ## References
 
