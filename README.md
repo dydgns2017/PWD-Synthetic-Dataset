@@ -51,8 +51,18 @@ testset is available [this folder](./test_dataset)
 
 Authors : Yonghoon Jung, Sanghyun Byun, Bumsoo Kim, Sareer Ul Amin, Sanghyun Seo
 
-```
-... Coming soon
+```java
+@article{JUNG2024108690,
+      title = {Harnessing synthetic data for enhanced detection of Pine Wilt Disease: An image classification approach},
+      journal = {Computers and Electronics in Agriculture},
+      volume = {218},
+      pages = {108690},
+      year = {2024},
+      issn = {0168-1699},
+      doi = {https://doi.org/10.1016/j.compag.2024.108690},
+      url = {https://www.sciencedirect.com/science/article/pii/S0168169924000814},
+      author = {Yonghoon Jung and Sanghyun Byun and Bumsoo Kim and Sareer {Ul Amin} and Sanghyun Seo}
+}
 ```
 
 ## Acknowledgements
